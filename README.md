@@ -1,6 +1,6 @@
-- 👋 Hi, We are @OpenScaler Engineering Team
-- 👀 I’m interested in Cloud computing Cloud-Native & AI Workload Related Techs  
-- 🌱 We are Currently devolopping our fist cloud offring in Africa ...
+- 👋 Hi, We are OpenScaler Engineering Team
+- 👀 We are interested in Cloud computing Cloud-Native & AI Workload Related Techs  
+- 🌱 Currently we are devolopping our fist cloud offring in Africa ...
 - 💞️ We are looking to collaborate on cloud techs...
 - 📫 We are reachable in admin@openscaler.net
 
